@@ -1,0 +1,10 @@
+Opening log session
+Opening log session
+2021-07-21T09:47:57.986355600: Hello class!
+2021-07-21: other text with LocalDate object
+09:47:57.989353800: more text with LocalTime object
+Opening log session
+2021-07-21T09:51:47.822815900: Hi there!
+2021-07-21: other text with LocalDate object
+09:51:47.823316800: more text with LocalTime object
+2021-07-21T09:51:47.820290300: Ending here...
